@@ -32,7 +32,7 @@ A cell born, if it is adjacent to three alive cells.
 At the window bottom left, the population ( alive cells account ) and the cycles passed is shown.
 Also the : zoom , displacement and pause, buttons appear.
 
-![image-3]
+![image-3](https://github.com/Xadnem53/OrgaSnismo0/blob/master/Images/running.png)
 
 If the shape stabilizes or disappears, a message box is shown and the game is over.
 
