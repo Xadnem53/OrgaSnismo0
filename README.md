@@ -81,7 +81,7 @@ If the shape stabilizes or disappears, a message box is shown and the game is ov
 		   the died cells interior ( black by defect ) and 
 		   the background ( black by defect ).
 
-
+![image-5](https://github.com/Xadnem53/OrgaSnismo0/blob/master/Images/changecolors.png)
 
 **Back to values by defect:** Return to the rules and colours by defect .
 
