@@ -1,6 +1,0 @@
-/home/xadnem/Documentos/Mono/OrgaSnismo0/OrgaSnismo0-V2.0/OrganiSmo0/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/xadnem/Documentos/Mono/OrgaSnismo0/OrgaSnismo0-V2.0/OrganiSmo0/obj/x86/Release/OrganiSmo0.gtk-gui.gui.stetic
-/home/xadnem/Documentos/Mono/OrgaSnismo0/OrgaSnismo0-V2.0/OrganiSmo0/bin/Release/OrganiSmo0.exe.mdb
-/home/xadnem/Documentos/Mono/OrgaSnismo0/OrgaSnismo0-V2.0/OrganiSmo0/bin/Release/OrganiSmo0.exe
-/home/xadnem/Documentos/Mono/OrgaSnismo0/OrgaSnismo0-V2.0/OrganiSmo0/obj/x86/Release/OrganiSmo0.exe
-/home/xadnem/Documentos/Mono/OrgaSnismo0/OrgaSnismo0-V2.0/OrganiSmo0/obj/x86/Release/OrganiSmo0.exe.mdb
