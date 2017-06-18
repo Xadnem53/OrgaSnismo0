@@ -57,10 +57,7 @@ If the shape stabilizes or disappears, a message box is shown and the game is ov
 **Change rules:** A window appears an allow to change the rules. The rules will remain if a new game is started.
 	          At the change rules window bottom, there are some rules examples with a brief description of their 		          respective effects.
 
-
-
-
-
+![image-4](https://github.com/Xadnem53/OrgaSnismo0/blob/master/Images/changerules.png)
 
 
 
