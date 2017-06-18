@@ -92,5 +92,5 @@ If the shape stabilizes or disappears, a message box is shown and the game is ov
 **Language:** Spanish and English languages are available.
 
 
-
+![image-6](https://github.com/Xadnem53/OrgaSnismo0/blob/master/Images/big.png)
 
