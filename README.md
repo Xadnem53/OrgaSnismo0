@@ -5,6 +5,7 @@ OrgaSnismo0, is based in the game of life, designed by the Mathematician John Co
 
 When the program starts, apart of a menu bar which is commented later, the button 'Draw initial shape' appears.
 
+![image-1](https://github.com/Xadnem53/OrgaSnismo0/blob/master/Images/Initial.png)
 
 
 After do click on this button, the following elements are shown:
