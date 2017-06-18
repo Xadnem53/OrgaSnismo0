@@ -21,7 +21,7 @@ After do click on this button, the following elements are shown:
 
 **'Accept' button:** To start the cycles once the desired shaped has been drawn or loaded and the cycle time established.
 
-
+![image-2](https://github.com/Xadnem53/OrgaSnismo0/blob/master/Images/drawshape.png)
 
 
 Once the game is started, the drawn shape is going changing according to the rules at every new cycle.
